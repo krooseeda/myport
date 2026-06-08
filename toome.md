@@ -1,2 +1,3 @@
 <b>เรื่องราวของฉัน</b> <br>
-[Home](README.md)
+[Home](README.md)  
+[ค้นหา](www.google.com)
