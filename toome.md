@@ -1,2 +1,2 @@
-<b>เรื่องราวของฉัน
-[Home] (README.md)
+<b>เรื่องราวของฉัน</b> <br>
+[Home](README.md)
